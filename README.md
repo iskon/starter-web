@@ -12,3 +12,4 @@ And another comment
 
 Rebase section,
 more changes from branch.
+Stash example
