@@ -10,4 +10,5 @@ Another comment
 
 And another comment
 
-Rebase section
+Rebase section,
+more changes from branch.
